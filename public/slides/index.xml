@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Cours</title>
+    <link>http://iboulangeat.github.io/Cours/slides/</link>
+    <description>Recent content in Slides on Cours</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 22:42:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://iboulangeat.github.io/Cours/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Socioecosystems</title>
+      <link>http://iboulangeat.github.io/Cours/slides/socioecosystems/</link>
+      <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/socioecosystems/</guid>
+      <description>class: title, smokescreen, shelf, no-footer background-image: url(cover.jpg)
+Socioecosystems in a global change context layout: true .footer[ - @DrIsaBlg ]
+Slides and Contact Information .qrcode.db.fr.w-40pct.ml-4[]
+Slides are at baseURL = &amp;ldquo;http://iboulangeat.github.io/Cours/&amp;quot; or you can scan the QR code.
+Contact: isabelle.boulangeat@irstea.fr</description>
+    </item>
+    
+    <item>
+      <title>Vegetation Dynamics</title>
+      <link>http://iboulangeat.github.io/Cours/slides/vegetationdynamics/</link>
+      <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/vegetationdynamics/</guid>
+      <description>class: title, smokescreen, shelf, no-footer background-image: url(cover.jpg)
+Vegetation Dynamics in a global change context layout: true .footer[ - @DrIsaBlg ]
+Climate change and anticipation  Niche-based model Habitat suitability models (correlative) species distributions models  class: fit-h1,center
+Niche-based species distribution models: principle Slides and Contact Information .qrcode.db.fr.w-40pct.ml-4[]
+Slides are at baseURL = &amp;ldquo;http://iboulangeat.github.io/Cours/&amp;quot; or you can scan the QR code.
+Contact: isabelle.boulangeat@irstea.fr</description>
+    </item>
+    
+  </channel>
+</rss>

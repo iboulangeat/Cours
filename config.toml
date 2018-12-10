@@ -2,4 +2,5 @@ baseURL = "http://iboulangeat.github.io/Cours"
 languageCode = "en-us"
 title = "Cours"
 theme = "story"
-publishDir = "docs"
+canonifyURLs = true
+# publishDir = "docs"
