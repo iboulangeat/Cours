@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cours on My New Hugo Site</title>
+    <link>http://example.org/cours/</link>
+    <description>Recent content in Cours on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Dec 2018 01:04:12 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/cours/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cours ENS 2018 - socioecosystems</title>
+      <link>http://example.org/slides/socioecosystems/</link>
+      <pubDate>Fri, 07 Dec 2018 01:04:12 +0100</pubDate>
+      
+      <guid>http://example.org/slides/socioecosystems/</guid>
+      <description>L&amp;rsquo;objectif de ce cours est &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cours ENS 2018 - vegetation dynamics</title>
+      <link>http://example.org/slides/vegetationdynamics/</link>
+      <pubDate>Fri, 07 Dec 2018 01:04:12 +0100</pubDate>
+      
+      <guid>http://example.org/slides/vegetationdynamics/</guid>
+      <description>L&amp;rsquo;objectif de ce cours est &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
