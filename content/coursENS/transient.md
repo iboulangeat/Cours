@@ -1,6 +1,6 @@
 ---
 title: 'Resilience and transient dynamics'
-date: "2018-12-07T01:04:12+01:00"
+date: "2018-12-21T01:04:12+01:00"
 slides: slides/transient/
 url: slides/transient/
 class: feature-nohdr

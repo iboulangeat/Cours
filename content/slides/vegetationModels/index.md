@@ -123,10 +123,9 @@ class: fit-h1, center
 
 _Talluto et al. 2017, Nature Ecology and Evolution_
 
-<!-- PARTIE 2 D(V)VM 30min hugo-->
 
 ---
-class: title, fogscreen, shelf, no-footer, fit-h1
+class: title, fogscreen, shelf, no-footer
 background-image: url(cover_world.jpg)
 
 # Global vegetation to regional plant diversity

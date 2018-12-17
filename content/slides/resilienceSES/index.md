@@ -169,11 +169,6 @@ class: no-footer, img-right-full
 
 - Effect of the nature of the "to what?" on different measures of "of what?" in various ecological systems.
 
-<!-- ---
-class: no-footer, img-right-full
-# Resilience and restauration
-![Image](eco-rewilding.png) -->
-
 ---
 class:
 # Resilience in practice

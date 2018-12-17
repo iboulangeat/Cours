@@ -5,7 +5,7 @@ theme = "story"
 canonifyURLs = true
 # publishDir = "docs"
 paginate = 5
-buildFuture = true
+buildFuture = false
 
 
 [[menu.social]]
