@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Cours ENS 2018 - vegetation dynamics</title>
+		<title>Vegetation Dynamics</title>
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="http://iboulangeat.github.io/Cours/index.xml">
 		<link rel="canonical" href="http://iboulangeat.github.io/Cours/slides/vegetationdynamics/">
 		
@@ -13,105 +13,133 @@
 		<meta name="generator" content="Hugo 0.52" />
 
 		
-		<meta name="og:title" content="Cours ENS 2018 - vegetation dynamics" />
+		<meta name="og:title" content="Vegetation Dynamics" />
 		<meta name="og:type" content="article" />
-		<meta name="og:image" content="http://iboulangeat.github.io/Cours/img/default-header-img.jpg" />
+		<meta name="og:image" content="http://iboulangeat.github.io/Cours/slides/vegetationDynamics/thumbnail.jpg" />
 		<meta name="og:description" content="" />
 		<meta name="og:url" content="http://iboulangeat.github.io/Cours/slides/vegetationdynamics/" />
-		<meta name="og:site_name" content="Cours ENS 2018 - vegetation dynamics" />
+		<meta name="og:site_name" content="Vegetation Dynamics" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@" />
 
 
 		
-		<link rel="stylesheet" href="http://iboulangeat.github.io/Cours/css/tachyons.min.css" />
-		<link rel="stylesheet" href="http://iboulangeat.github.io/Cours/css/story.css" />
-		<link rel="stylesheet" href="http://iboulangeat.github.io/Cours/css/descartes.css" />
-		
+					<link rel="stylesheet" type="text/css" href="http://iboulangeat.github.io/Cours/css/apron.css"></style>
+					<link rel="stylesheet" type="text/css" href="http://iboulangeat.github.io/Cours/css/descartes.css"></style>
+					<link rel="stylesheet" type="text/css" href="http://iboulangeat.github.io/Cours/css/adirondack.css"></style><style type="text/css">
+		 
+		@page {
+				  size:  1216px 684px; 
+				  margin: 0;
+		}
+		</style>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 		<link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400i,700,700i|Quattrocento:400,700|Spectral:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
-		
+
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.css" integrity="sha384-TEMocfGvRuD1rIAacqrknm5BQZ7W7uWitoih+jMNFXQIbNl16bO8OZmylH/Vi/Ei" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.js" integrity="sha384-jmxIlussZWB7qCuB+PgKG1uLjjxbVVIayPJwi6cG6Zb4YKq0JIw+OMnkkEC7kYCq" crossorigin="anonymous"></script>
+		<script src="http://iboulangeat.github.io/Cours/js/auto-render.min.js"></script> 
 		<script src="http://iboulangeat.github.io/Cours/js/story.js"></script>
 
 	</head>
-	<body class="ma0 bg-white section-cours page-kind-page is-page-true ">
+	<body class="ma0 bg-white section-slides page-kind-page is-page-true  feature-math feature-qrcode feature-nohighlight">
 		
-		<header class="cover bg-top" style="background-image: url('http://iboulangeat.github.io/Cours/img/default-header-img.jpg'); background-position: center;">
-			<div class="bg-black-30 bb bt">
+  
 
-				<nav class="hide-print sans-serif  border-box pa3 ph5-l">
-					<a href="http://iboulangeat.github.io/Cours" title="Home">
-						<img src="http://iboulangeat.github.io/Cours/img/logo.jpg" class="w2 h2 br-100" alt="Cours" />
-					</a>
-					<div class="fr h2 pv2 tr">
-						<a class="link f5 ml2 dim near-white fas fa-rss-square" href="http://iboulangeat.github.io/Cours/index.xml" title="RSS Feed"></a>
-						<a class="link f5 ml2 dim near-white fas fa-search" href="http://iboulangeat.github.io/Cours/search/" role="search" title="Search"></a>
-					</div>
-				</nav>
-
-				<div id="hdr" class="tc-l pv4-ns pv5-l pv2 ph3 ph4-ns">
-					<h1 class="near-white mt1-ns f2 fw3 mb0 mt0 lh-title">Cours ENS 2018 - vegetation dynamics</h1>
-					<h2 class="near-white mt3-l mb4-l fw1 f6 f3-l measure-wide-l center lh-copy mt2 mb3">
-						
-						
-							
-								Published
-								<time datetime="2018-12-07T01:04:12&#43;01:00">Dec 7, 2018</time>
-								<span class="display-print">by </span>
-								
-								<span class="display-print">at http://iboulangeat.github.io/Cours/slides/vegetationdynamics/</span>
-							
-						
-					</h2>
-				</div>
-
-				
-				
-				
-				
-
-			</div>
-		</header>
-		
 		<main role="main">
 		
-<article class="center bg-white br-3 pv1 ph4 nested-copy-line-height lh-copy f4 nested-links mw-100 measure-wide">
-	<p>L&rsquo;objectif de ce cours est &hellip;</p>
+    <textarea id="source">class: title, smokescreen, shelf, no-footer
+background-image: url(cover.jpg)
 
-</article>
+# Vegetation Dynamics
+### in a global change context
+
+---
+layout: true
+.footer[
+- @DrIsaBlg
+&lt;!-- - ![logo](logo.jpg) --&gt;
+]
+
+---
+# Climate change and anticipation
+
+![Image](ccDiv.png# w-33pct r-0 b-0)
+![Image](ccInv.png# w-33pct r-0 t-0)
+![Image](ccTOL.png# w-33pct fr l-0)
+
+- Niche-based model
+- Habitat suitability models
+- (correlative) species distributions models
+
+---
+class: fit-h1,center
+# Niche-based species distribution models: principle
+![Image](NBmodels.png# w-80pct)
+
+---
+
+---
+# Slides and Contact Information
+
+.qrcode.db.fr.w-40pct.ml-4[]
+
+Slides are at baseURL = &#34;http://iboulangeat.github.io/Cours/&#34; or you can scan the QR code.
+
+Contact: isabelle.boulangeat@irstea.fr
+</textarea>
+    <script type="text/javascript" src="http://iboulangeat.github.io/Cours/js/qrcode.js"></script>
+    <script src="http://iboulangeat.github.io/Cours/js/remark.js"></script>
+    <script>
+      var slideshow = remark.create({
+          ratio: "16:9", 
+         navigation: {
+            scroll: false
+         },
+         countIncrementalSlides: false,
+         slideNumberFormat: '%current%',
+			highlightLanguage: "xaprb",
+			placeholder: "dummy value to end the list without a comma"
+      });
+
+		
+		
+		$(".remark-slide-content.fit-h1 h1").each(function(i, e) {
+			var $e = $(e);
+			var $p = $e.closest('div.remark-slide-container');
+			var needsToggle = !$p.hasClass('remark-visible');
+			if ( needsToggle ) $p.toggleClass('remark-visible');
+			while (e.scrollHeight > e.clientHeight + 1 && $e.css('font-size') != '1px') {
+				$e.css('font-size', (parseInt($e.css('font-size')) - 1) + "px");
+				
+				
+			}
+			if ( needsToggle ) $p.toggleClass('remark-visible');
+		});
+
+		$( function() {
+			if ( $( "body.feature-qrcode:not(.feature-noqrcode)" ).length ) {
+				if ( $( ".qrcode" ).length ) {
+					new QRCode($(".qrcode")[0], {
+						"useSVG": true,
+						"text": window.location.href.replace(/#\d*$/, "")
+					});
+				}
+			}
+		});
+
+    </script>
 
 		</main>
 		
-				<div class="hide-print sans-serif f6 f5-l mt5 ph3 pb6 center nested-copy-line-height lh-copy nested-links mw-100 measure-wide">
-		<div class="about-the-author">
-		
-			
-			
-				
-					<p>Isabelle Boulangeat &hellip;</p>
-
-				
-			
-		
-		</div>
-		
-	</div>
+  
 
 		
 		
-		
-		<footer class="hide-print sans-serif f6 fw1 bg-black near-white bottom-0 w-100 pa3" role="contentinfo">
-			<p class="w-50 fr tr">
-			<a class="no-underline near-white" href="https://github.com/xaprb/story"><img class="dib" title="Made with Hugo and Story" alt="Story logo" src="http://iboulangeat.github.io/Cours/img/story-logo-white.svg" style="width: 1.5rem; height: 1.5rem" /></a>
-			</p>
-			<p class="w-50 near-white">
-				&copy; 2018 
-			</p>
-		</footer>
-		
+  
+
 	
 	
 	</body>

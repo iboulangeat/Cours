@@ -4,3 +4,23 @@ title = "Cours"
 theme = "story"
 canonifyURLs = true
 # publishDir = "docs"
+paginate = 5
+buildFuture = true
+
+
+[[menu.social]]
+  name = "GitHub"
+  title = "fab fa-github-square"
+  url = "https://github.com/iboulangeat"
+
+[params]
+  author = "Isabelle Boulangeat"
+  twitter = "DrIsaBlg"
+  classes = ["feature-nohdr", "feature-math"]
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
