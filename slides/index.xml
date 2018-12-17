@@ -12,30 +12,67 @@
     
     
     <item>
-      <title>Socioecosystems</title>
-      <link>http://iboulangeat.github.io/Cours/slides/socioecosystems/</link>
+      <title>Modelling vegetation distribution and dynamics</title>
+      <link>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</link>
       <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
       
-      <guid>http://iboulangeat.github.io/Cours/slides/socioecosystems/</guid>
-      <description>class: title, smokescreen, shelf, no-footer background-image: url(cover.jpg)
-Socioecosystems in a global change context layout: true .footer[ - @DrIsaBlg ]
-Slides and Contact Information .qrcode.db.fr.w-40pct.ml-4[]
-Slides are at baseURL = &amp;ldquo;http://iboulangeat.github.io/Cours/&amp;quot; or you can scan the QR code.
+      <guid>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</guid>
+      <description>class: title, fogscreen, shelf, no-footer background-image: url(aulnaie.jpg)
+Modelling vegetation distribution and dynamics layout: true .footer[ - iboulangeat - décembre 2018, ENS Lyon ] class: fit-h1
+The context: rapid global changes  &amp;ndash;  .absolute.w-7-12th.pa-3.l-1-12th.t-20pct.bg-white-70pct[ ] class: col-2
+Coexistence theories The ecological niche : a set of environmental conditions
+The metapopulation framework (neutral): spatial and temporal dynamics
+class: fit-h1
+Large scale predictions   Niche-based model Habitat suitability models (correlative) species distributions models  class: fit-h1,center</description>
+    </item>
+    
+    <item>
+      <title>Paleo STM</title>
+      <link>http://iboulangeat.github.io/Cours/slides/paleostm/</link>
+      <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/paleostm/</guid>
+      <description>layout: true .footer[ - iboulangeat - décembre 2018, ENS Lyon ] class: title, fogscreen, shelf, no-footer, fit-h1 background-image: url(Holocene.JPG)
+States and transitions in the Holocene class: fit-h1
+Extending the State and Transitions approaches class: fit-h1
+Extending the State and Transitions approaches class:
+Application in the Holocene in Europe cf. STM-paleo.pptx
+class: no-footer
+Slides and Contact Information Slides are at baseURL = &amp;ldquo;http://iboulangeat.github.io/Cours/&amp;quot;
 Contact: isabelle.boulangeat@irstea.fr</description>
     </item>
     
     <item>
-      <title>Vegetation Dynamics</title>
-      <link>http://iboulangeat.github.io/Cours/slides/vegetationdynamics/</link>
+      <title>Resilience</title>
+      <link>http://iboulangeat.github.io/Cours/slides/transient/</link>
       <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
       
-      <guid>http://iboulangeat.github.io/Cours/slides/vegetationdynamics/</guid>
-      <description>class: title, smokescreen, shelf, no-footer background-image: url(cover.jpg)
-Vegetation Dynamics in a global change context layout: true .footer[ - @DrIsaBlg ]
-Climate change and anticipation  Niche-based model Habitat suitability models (correlative) species distributions models  class: fit-h1,center
-Niche-based species distribution models: principle Slides and Contact Information .qrcode.db.fr.w-40pct.ml-4[]
-Slides are at baseURL = &amp;ldquo;http://iboulangeat.github.io/Cours/&amp;quot; or you can scan the QR code.
-Contact: isabelle.boulangeat@irstea.fr</description>
+      <guid>http://iboulangeat.github.io/Cours/slides/transient/</guid>
+      <description>class: title, smokescreen, no-footer background-image: url(Colonisation_arboles.jpg)
+Resilience and transient dynamics layout: true .footer[ - iboulangeat - décembre 2018, ENS Lyon ]
+class: compact
+Beyond equilibrium: the transient phase class: fit-h1
+Caracterizing the transient dynamics class: fit-h1
+Application in the temperate-boreal ecotone class: no-footer, img-right-full
+Application in the temperate-boreal ecotone  A large climatic gradient A well documented region Climate change is expected to impact strongly these ecotone Economy strongly related to forestry and hunting  class: title, fogscreen, no-footer background-image: url(deer.</description>
+    </item>
+    
+    <item>
+      <title>Resilience in a global change context</title>
+      <link>http://iboulangeat.github.io/Cours/slides/resilienceses/</link>
+      <pubDate>Thu, 06 Dec 2018 22:42:20 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/resilienceses/</guid>
+      <description>class: title, smokescreen, shelf, no-footer background-image: url(ballandcup.gif)
+Resilience in a global change context From ecosystems to socio-ecological systems layout: true .footer[ - iboulangeat - décembre 2018, ENS Lyon ]
+ class:
+Human impact is global class:
+Human impact is not new class:
+Evolution of the resilience concept class:
+Resilience, a multidisciplinary concept class:
+Resilience and system thinking General system theory Ludwig von Bertalanffy (1940&amp;rsquo;s), Biologist
+&amp;ndash;
+.fixed.r-3.ba-0.b-3[Russell Ackoff (1981), Economist]</description>
     </item>
     
   </channel>
