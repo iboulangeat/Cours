@@ -1,6 +1,6 @@
 ---
 title: Paleo STM
-date: "2018-12-06T22:42:20+01:00"
+# date: "2018-12-06T22:42:20+01:00"
 url: "slides/paleoSTM/"
 description: ""
 ratio: "16:9"
@@ -41,8 +41,69 @@ class: fit-h1
 
 ---
 class:
-# Application in the Holocene in Europe
-cf. STM-paleo.pptx
+# Post glacial recolonisation context
+![Image](becker2015.png#)
+
+---
+class:
+# Post glacial vegetation dynamics
+![Image](trondman1.png)
+
+---
+class:
+# Post glacial vegetation dynamics
+![Image](trondman2.png)
+
+---
+class:
+# Drivers of vegetation changes
+![Image](gill2014.png# center h-70pct)
+.absolute.b-3.r-3[Gill 2014]
+
+---
+class:
+# Vegetation dynamics
+![Image](vegDyn_bas.png# absolute center b-3 w-80pct)
+--
+![image](vegDyn_haut.png# absolute t-3 l-30pct h-40pct)
+
+---
+class:
+# Hypotheses : Brainstorming
+
+- Temperature
+- Humans
+- Herbivory
+- Herbivory
+- Fire
+- Functional herbivore diversity
+- Herbivore richness
+
+- Interactions?
+
+---
+class: compact, col-2
+# Hypotheses : exemples
+
+- Cold temperature -> prevent forest expansion
+- Cold temperature -> prevent deciduous tree regeneration
+- Warmer temperatures -> prevent coniferous tree regeneration (compet. w/deciduous)
+- Humans -> favour deciduous (because they make use of it)
+- Humans -> prevent the forest closure (timber, settlements)
+- Herbivory -> prevent deciduous regeneration (preferential feeding) 
+- Herbivory -> maintain landscapes open (Vera hypothesis)
+- Fire -> association to boreal forest (fuel)/ the growth of Betula forests can suppress fire
+- Functional herbivore diversity -> reinforce herbivory effect
+- Herbivore richness -> reinforce herbivory effect
+- Herbivores richness -> association to forests if they use it a refugees from humans 
+
+Interactions
+- Humans: herbivores -> hunting neutralise herbivore effect
+- Humans: herbivores ->  enhance herbivory effect by promoting their habitat
+- Fire : humans -> more forest opening
+
+
+
 
 ---
 class: no-footer

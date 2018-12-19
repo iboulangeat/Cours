@@ -1,6 +1,6 @@
 ---
 title: Resilience in a global change context
-date: "2018-12-06T22:42:20+01:00"
+date: "2018-12-17T22:42:20+01:00"
 url: "slides/resilienceSES/"
 description: ""
 ratio: "16:9"
@@ -14,7 +14,7 @@ classes:
 - feature-nohighlight
 ---
 class: title, smokescreen, shelf, no-footer
-background-image: url(ballandcup.gif)
+background-image: url(polarbear.png)
 
 # Resilience in a global change context
 ### From ecosystems to socio-ecological systems
@@ -29,6 +29,177 @@ layout: true
 <!-- - ![logo](/img/logo.jpg) -->
 ]
 <!--  -->
+---
+class: title, smokescreen, shelf, no-footer
+background-image: url(ballandcup.gif)
+
+# Resilience and ecological dynamics
+---
+class:
+# A stability perspective
+![Image](ballandcup1D.png# absolute h-60pct l-20pct)
+--
+.absolute.b-3.l-6[X]
+.absolute.l-4.t-5[Y]
+--
+
+.absolute.t-5.r-4[attraction bassin]
+.absolute.t-60pct.r-2[local equilibrium properties]
+
+--
+![Image](ballandcup.gif# absolute db l-10pct)
+.absolute.b-3.l-6.bg-white.h-2.w-2[ ]
+.absolute.l-4.t-5.bg-white.h-2.w-2[ ]
+---
+class: col-2
+# Alternative stable states and catastrophic shifts
+![Image](scheffer2001.png# w-90pct di)
+.absolute.r-3.b-4[Scheffer et al. 2001, Nature]
+
+Main challenge : find alternative stable states
+
+Systems:
+- Woodland / Savanna
+- Perennial herbs / bareground
+- Lake (turbidity)
+- Coral reefs
+
+
+---
+class:col-2
+# Stochasticity and non-equilibrium dynamics
+ TODO
+- size of the bassin of attraction
+- variance
+- autoregression coefficient
+- correlation between states
+
+---
+class: col-2
+# The quest for early warning signals
+#### Critical slowing down
+![Image](scheffer2003.png#)
+.absolute.r-3.b-3[Scheffer et al. 2003, Nature]
+--
+.absolute.l-4.b-4.w-30pct[but not necessarily followed by catastrophic shifts, see Kéfi et al. 2013, Oikos]
+---
+class: no-footer, img-right-full
+# Effect of disturbances on resilience
+![Image](Radchuck2018.png)
+
+- Correlation between several resilience measures in simulated ecological dynamic systems.
+- Multidimension!
+
+.absolute.l-3.b-3[Radchuck et al. 2019, EcoLet]
+
+---
+class:
+# Resilience in a multi-dimentional context
+#### The use of hypervolumes
+
+Barros et al. 2016, EcoLet
+![Image](Barros2016.png# w-60pct r-1 absolute b-3)
+---
+class: title, smokescreen, no-footer
+background-image: url(Colonisation_arboles.jpg)
+
+# Measuring resilience and transient dynamics
+---
+
+class: compact
+# Beyond equilibrium: the transient phase
+![Image](transcient2.png)
+
+
+<!-- ---
+class: fit-h1
+# Shock versus continuous change
+![Image](resilience.png# fixed h-70pct)
+
+ -->
+
+---
+class: fit-h1
+# Caracterizing the transient dynamics
+![Image](fig_intro.png# fixed h-70pct)
+
+
+---
+class: fit-h1
+# Application in the temperate-boreal ecotone
+![Image](ecotone.png)
+
+---
+class: no-footer, img-right-full
+# Application in the temperate-boreal ecotone
+![Image](bic.JPG)
+
+- A large climatic gradient
+- A well documented region
+- Climate change is expected to impact strongly these ecotone
+- Economy strongly related to forestry and hunting
+
+---
+class: no-footer, fullbleed
+![Image](deer.jpg)
+.absolute.center.t-4.pa-2.ba.bw-0.h-20pct.w-40pct.bg-white-80pct[How the trophic interactions impact the transient dynamics of the vegetation?]
+
+---
+class: fit-h1, center
+# The model : STM and Biomass population model
+![Image](feedback2.png# w-60pct)
+
+---
+class: fit-h1
+# Influence of climate on vegetation
+![Image](supp_fitnesses.png#)
+
+---
+class:
+# Trajectories
+![Image](transcient_phase_diagram.png# fixed t-10pct l-30pct h-80pct)
+
+---
+class:
+# Equilibrium shift
+![Image](pres_equilibrium.png# db w-9-12th)
+
+---
+class:
+# Impact of herbivores on stability
+![Image](pres_stability.png# db w-9-12th)
+
+---
+class: fit-h1
+# Impact of herbivores on transient dynamics
+![Image](pres_transientResponse.png# db w-9-12th)
+
+
+---
+class:
+# Multidimentionality of stability
+![Image](correlations_pR.png# db w-9-12th)
+
+---
+class: roomy
+# Main results
+
+- Herbivores induce a **shifts** at biome transitions
+- Herbivores induce **more accumulated vegetation changes** in respnose to climate change
+- Herbivores **slow down** the return to equilibrium
+- Herbivory can have **opposite effects** depending on climate conditions
+- Trophic interactions increases the **multidimentionality** of the resilience
+
+
+
+
+---
+class: title, smokescreen, shelf, no-footer
+background-image: url(orcieres.png)
+
+# From ecosystems to socio-ecological systems
+
+
 ---
 class:
 # Human impact is global
@@ -146,9 +317,31 @@ Exemple:
 - Conservation goal: maximise the compositional persistence and resilience (return to eq) of communities
 ---
 class:
+# Ecosystem services
+> The benefits from Nature to People
+
+![Image](services.png)
+---
+class:
+# Ecosystem services : exemples
+> Commun international classification
+
+![Image](CICES.png)
+
+---
+class:
+# Bundles of services
+#### A way to embrace multidimentionality
+
+![Image](bundlesDeGroot2010.png)
+
+
+---
+class:
 # Resilience to what ? Defining perturbations
 
 ![Image](disturbances.png)
+--
 <!--  -->
 .absolute.w-40pct.h-50pct.pa-2.r-4.b-4.bw-1.br-1.ba.bg-white-80pct[
 - pulse/press
@@ -159,15 +352,6 @@ class:
 - selective or not
 ]
 <!--  -->
-
----
-class: no-footer, img-right-full
-# Effect of disturbance on resilience
-![Image](Radchuck2018.png)
-
-- Correlation between several resilience measures in simulated ecological dynamic systems.
-
-- Effect of the nature of the "to what?" on different measures of "of what?" in various ecological systems.
 
 ---
 class:

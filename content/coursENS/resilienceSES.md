@@ -1,6 +1,6 @@
 ---
 title: 'Resilience in a global change context'
-date: "2018-12-21T01:04:12+01:00"
+date: "2018-12-17T01:04:12+01:00"
 slides: slides/resilienceSES/
 url: slides/resilienceSES/
 class: feature-nohdr

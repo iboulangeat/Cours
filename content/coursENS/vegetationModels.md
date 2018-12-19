@@ -1,6 +1,6 @@
 ---
 title: 'Modelling vegetation distribution and dynamics'
-date: "2018-12-07T01:04:12+01:00"
+date: "2018-12-16T01:04:12+01:00"
 slides: slides/vegetationModels/
 url: slides/vegetationModels/
 class: feature-nohdr
