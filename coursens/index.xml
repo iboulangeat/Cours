@@ -6,15 +6,33 @@
     <description>Recent content in CoursENSs on Cours</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Dec 2018 01:04:12 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 01:04:12 +0100</lastBuildDate>
     
 	<atom:link href="http://iboulangeat.github.io/Cours/coursens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resilience in a global change context</title>
+      <link>http://iboulangeat.github.io/Cours/slides/resilienceses/</link>
+      <pubDate>Mon, 17 Dec 2018 01:04:12 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/resilienceses/</guid>
+      <description>En faisant un pont entre les écosystèmes et les socio-écosystéèmes, ce cours présente l&amp;rsquo;interdisciplinarité de la notion de résilience et les notions clé qui l&amp;rsquo;accompagnent: stabilité, adaptation, durabilité, soutenabilité, perturbation, multidimentionnalité.</description>
+    </item>
+    
+    <item>
+      <title>States and transitions in the Holocene</title>
+      <link>http://iboulangeat.github.io/Cours/slides/paleostm/</link>
+      <pubDate>Mon, 17 Dec 2018 01:04:12 +0100</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Cours/slides/paleostm/</guid>
+      <description>Ce cours présente un exemple de recherche sur les déterminants de la dynamique de végétation en Europe pendant l&amp;rsquo;Holocène.</description>
+    </item>
+    
+    <item>
       <title>Modelling vegetation distribution and dynamics</title>
       <link>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</link>
-      <pubDate>Fri, 07 Dec 2018 01:04:12 +0100</pubDate>
+      <pubDate>Sun, 16 Dec 2018 01:04:12 +0100</pubDate>
       
       <guid>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</guid>
       <description>Ce cours présente les différents modèles de distribution et de dynamique de la végétation. Il donne une perspective historique, d&amp;rsquo;échelles spatiales et écologiques, et des mécanismes inclus dans les modèles. Finalement, il présente une façon de prendre en compte la diversité et présente un cas d&amp;rsquo;étude de modèle dynamique de végétation à l&amp;rsquo;échelle régionale : paramétrisation, validation, scenarios dans un parc National.</description>

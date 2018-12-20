@@ -7,12 +7,32 @@
 		<language>en-us</language>
 		<author>Isabelle Boulangeat</author>
 		<rights>Copyright (c) 2018</rights>
-		<updated>2018-12-07 01:04:12 &#43;0100 CET</updated>
+		<updated>2018-12-17 22:42:20 &#43;0100 CET</updated>
+		
+		<item>
+			<title>Resilience in a global change context</title>
+			<link>http://iboulangeat.github.io/Cours/slides/resilienceses/</link>
+			<pubDate>Mon, 17 Dec 2018 01:04:12 CET</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Cours/slides/resilienceses/</guid>
+			<description>&lt;p&gt;En faisant un pont entre les écosystèmes et les socio-écosystéèmes, ce cours présente l&amp;rsquo;interdisciplinarité de la notion de résilience et les notions clé qui l&amp;rsquo;accompagnent: stabilité, adaptation, durabilité, soutenabilité, perturbation, multidimentionnalité.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>States and transitions in the Holocene</title>
+			<link>http://iboulangeat.github.io/Cours/slides/paleostm/</link>
+			<pubDate>Mon, 17 Dec 2018 01:04:12 CET</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Cours/slides/paleostm/</guid>
+			<description>&lt;p&gt;Ce cours présente un exemple de recherche sur les déterminants de la dynamique de végétation en Europe pendant l&amp;rsquo;Holocène.&lt;/p&gt;
+</description>
+		</item>
 		
 		<item>
 			<title>Modelling vegetation distribution and dynamics</title>
 			<link>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</link>
-			<pubDate>Fri, 07 Dec 2018 01:04:12 CET</pubDate>
+			<pubDate>Sun, 16 Dec 2018 01:04:12 CET</pubDate>
 			<author>Isabelle Boulangeat</author>
 			<guid>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</guid>
 			<description>&lt;p&gt;Ce cours présente les différents modèles de distribution et de dynamique de la végétation.

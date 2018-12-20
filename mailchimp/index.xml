@@ -10,9 +10,29 @@
 		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
+			<title>Resilience in a global change context</title>
+			<link>http://iboulangeat.github.io/Cours/slides/resilienceses/</link>
+			<pubDate>Mon, 17 Dec 2018 01:04:12 CET</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Cours/slides/resilienceses/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;En faisant un pont entre les écosystèmes et les socio-écosystéèmes, ce cours présente l&amp;rsquo;interdisciplinarité de la notion de résilience et les notions clé qui l&amp;rsquo;accompagnent: stabilité, adaptation, durabilité, soutenabilité, perturbation, multidimentionnalité.</description>
+		</item>
+		
+		<item>
+			<title>States and transitions in the Holocene</title>
+			<link>http://iboulangeat.github.io/Cours/slides/paleostm/</link>
+			<pubDate>Mon, 17 Dec 2018 01:04:12 CET</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Cours/slides/paleostm/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;Ce cours présente un exemple de recherche sur les déterminants de la dynamique de végétation en Europe pendant l&amp;rsquo;Holocène.</description>
+		</item>
+		
+		<item>
 			<title>Modelling vegetation distribution and dynamics</title>
 			<link>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</link>
-			<pubDate>Fri, 07 Dec 2018 01:04:12 CET</pubDate>
+			<pubDate>Sun, 16 Dec 2018 01:04:12 CET</pubDate>
 			<author>Isabelle Boulangeat</author>
 			<guid>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
