@@ -68,11 +68,13 @@ Systems:
 ---
 class:col-2
 # Stochasticity and non-equilibrium dynamics
- TODO
+![Image](arnoldi2016.png)
+.absolute.r-3.b-3[Arnoldi et al. 2010, Journal Theoretical Biologie]
+
 - size of the bassin of attraction
-- variance
+- temporal variability
+
 - autoregression coefficient
-- correlation between states
 
 ---
 class: col-2
@@ -81,7 +83,7 @@ class: col-2
 ![Image](scheffer2003.png#)
 .absolute.r-3.b-3[Scheffer et al. 2003, Nature]
 --
-.absolute.l-4.b-4.w-30pct[but not necessarily followed by catastrophic shifts, see Kéfi et al. 2013, Oikos]
+.absolute.l-4.b-4.w-30pct[but not necessarily followed by catastrophic shifts, see Kéfi et al. 2013, Oikos; Dai et al. 2015, PNAS]
 ---
 class: no-footer, img-right-full
 # Effect of disturbances on resilience
@@ -189,8 +191,6 @@ class: roomy
 - Herbivores **slow down** the return to equilibrium
 - Herbivory can have **opposite effects** depending on climate conditions
 - Trophic interactions increases the **multidimentionality** of the resilience
-
-
 
 
 ---
@@ -322,23 +322,25 @@ class:
 
 ![Image](services.png)
 ---
-class:
+class: no-footer
 # Ecosystem services : exemples
-> Commun international classification
+.absolute.r-1.b-4.w-20pct[Commun international classification]
 
-![Image](CICES.png)
+![Image](CICES.png# absolute t-4 w-60pct)
 
 ---
 class:
 # Bundles of services
 #### A way to embrace multidimentionality
+.absolute.r-1.b-2.w-20pct[De Groot 2010]
 
-![Image](bundlesDeGroot2010.png)
+![Image](bundlesDeGroot2010.png# w-70pct)
 
 
 ---
 class:
 # Resilience to what ? Defining perturbations
+.absolute.l-4.b-3.w-30pct[Donohue 2015, EcoLet]
 
 ![Image](disturbances.png)
 --
@@ -354,15 +356,15 @@ class:
 <!--  -->
 
 ---
-class:
-# Resilience in practice
-
-Role game...
-
----
 class: no-footer
 # Slides and Contact Information
 
 Slides are at baseURL = "http://iboulangeat.github.io/Cours/"
 
 Contact: isabelle.boulangeat@irstea.fr
+
+---
+class:
+# Resilience in practice
+
+Role game...
