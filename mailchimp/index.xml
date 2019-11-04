@@ -20,16 +20,6 @@
 		</item>
 		
 		<item>
-			<title>States and transitions in the Holocene</title>
-			<link>http://iboulangeat.github.io/Cours/slides/paleostm/</link>
-			<pubDate>Mon, 17 Dec 2018 01:04:12 CET</pubDate>
-			<author>Isabelle Boulangeat</author>
-			<guid>http://iboulangeat.github.io/Cours/slides/paleostm/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>%!s(&lt;nil&gt;)&lt;br&gt;Ce cours présente un exemple de recherche sur les déterminants de la dynamique de végétation en Europe pendant l&amp;rsquo;Holocène.</description>
-		</item>
-		
-		<item>
 			<title>Modelling vegetation distribution and dynamics</title>
 			<link>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</link>
 			<pubDate>Sun, 16 Dec 2018 01:04:12 CET</pubDate>
@@ -37,6 +27,16 @@
 			<guid>http://iboulangeat.github.io/Cours/slides/vegetationmodels/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>%!s(&lt;nil&gt;)&lt;br&gt;Ce cours présente les différents modèles de distribution et de dynamique de la végétation. Il donne une perspective historique, d&amp;rsquo;échelles spatiales et écologiques, et des mécanismes inclus dans les modèles. Finalement, il présente une façon de prendre en compte la diversité et présente un cas d&amp;rsquo;étude de modèle dynamique de végétation à l&amp;rsquo;échelle régionale : paramétrisation, validation, scenarios dans un parc National.</description>
+		</item>
+		
+		<item>
+			<title>Des écosystèmes aux socio-écosystèmes à travers la notion de résilience</title>
+			<link>http://iboulangeat.github.io/Cours/slides/introses/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Cours/slides/introses/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Cours/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;La gestion des resources naturelles et de la biodiversité présente des enjeux qu’il est nécessaire d’aborder en prenant en compte conjointement les dynamiques écologiques et socio-économiques. C’est ce que tentent d’adresser les recherches qui ont pour objet les socio-écosystèmes et qui s’intéressent à leur résilience ou vulnérabilité. Le cours, à travers le thème de la résilience et des systèmes complexes, vous emmènera à l’interface entre écologie et autres disciplines, des écosystèmes aux socio-écosystèmes.</description>
 		</item>
 		
 	</channel>
